@@ -66,4 +66,10 @@ name:Sakanan Katana
 
 After modifying or adding, please make sure the aboutgroup.info file exists and *.character exists to be modified, after that add data to the group in list-character.json to be able to track on the web, but usually this list will be received by the owner/admin.
 
+Build list-character.json use this command
+
+```bash
+node build/buildlist.js
+```
+
 That's it, now you can contribute to this!, good luck 🎊.
