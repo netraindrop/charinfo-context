@@ -1,0 +1,15 @@
+[
+  {
+    "group": "Blue Archive",
+    "list": [
+      {
+        "name": "Sunaookami Shiroko",
+        "call": "Shiroko",
+        "icon": "https://static.wikia.nocookie.net/blue-archive/images/7/79/Shiroko_Icon.png/revision/latest",
+        "date": 1744637538605,
+        "creator": "github.com/ernestoyoofi",
+        "path": "games/shiroko.character"
+      }
+    ]
+  }
+]
