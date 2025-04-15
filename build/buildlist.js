@@ -6,7 +6,8 @@ function ParseContext(texttx) {
     "name","callname","gender",
     "icon","builder","source",
     "language","introduction",
-    "personality","moreabouthim"
+    "personality","moreabouthim",
+    "contextchat"
   ]
   const requiredvariable = [
     "name","callname","gender",
