@@ -3,6 +3,30 @@
     "group": "Blue Archive",
     "list": [
       {
+        "name": "Urawa Hanako",
+        "call": "Hanako",
+        "icon": "https://static.wikia.nocookie.net/blue-archive/images/f/f1/Hanako_Icon.png/revision/latest/scale-to-width/360?cb=20221019030642",
+        "date": 1744770583676,
+        "creator": "github.com/ernestoyoofi",
+        "path": "games/bluearchive/hanako.character"
+      },
+      {
+        "name": "Takanashi Hoshino",
+        "call": "Hoshino",
+        "icon": "https://static.wikia.nocookie.net/blue-archive/images/d/de/Hoshino_Icon.png/revision/latest/scale-to-width/360?cb=20221128153020",
+        "date": 1744770583677,
+        "creator": "github.com/ernestoyoofi",
+        "path": "games/bluearchive/hoshino.character"
+      },
+      {
+        "name": "Tanga Ibuki",
+        "call": "Ibuki",
+        "icon": "https://static.wikia.nocookie.net/blue-archive/images/3/36/Ibuki_Icon.png/revision/latest/scale-to-width/360?cb=20240124144555",
+        "date": 1744770583677,
+        "creator": "github.com/ernestoyoofi",
+        "path": "games/bluearchive/ibuki.character"
+      },
+      {
         "name": "Sunaookami Shiroko",
         "call": "Shiroko",
         "icon": "https://static.wikia.nocookie.net/blue-archive/images/7/79/Shiroko_Icon.png/revision/latest",
