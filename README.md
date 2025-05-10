@@ -1,5 +1,8 @@
 # Character Information Context
 
+> [!IMPORTANT]
+> This project has been discontinued
+
 > [!WARNING]
 > This project is still experimental, this project can be lost or archive, not really fixed, which is not offical from ChatGPT's request, but only makes it easier to customize it
 
